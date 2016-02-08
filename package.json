@@ -1,0 +1,19 @@
+{
+  "name": "registrar-sql",
+  "version": "1.0.0",
+  "description": "SQL backend for registrar",
+  "scripts": {
+    "test": "node test",
+    "cover": "istanbul cover test.js"
+  },
+  "dependencies": {
+    "get-random-values": "^1.2.0",
+    "hex-string": "^1.0.1",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "registrar": "^1.0.0"
+  },
+  "author": "jesse.tane@gmail.com",
+  "license": "Public Domain"
+}
