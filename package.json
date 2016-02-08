@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "get-random-values": "^1.2.0",
-    "hex-string": "^1.0.1",
-    "mysql": "^2.10.2"
+    "hex-string": "^1.0.1"
   },
   "devDependencies": {
+    "mysql": "^2.10.2",
     "registrar": "^1.0.0"
   },
   "author": "jesse.tane@gmail.com",
